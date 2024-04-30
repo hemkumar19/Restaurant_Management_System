@@ -1,0 +1,8 @@
+Restaurant Managment System
+Xampp Server MySQL 
+  
+username:- Admin
+password :- Admin@123
+
+
+Customer Number Search 1234567890
